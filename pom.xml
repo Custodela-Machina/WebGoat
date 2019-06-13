@@ -17,6 +17,7 @@
         <url>https://webgoat.github.io/</url>
 	    
     </organization>
+	
 
     <parent>
         <groupId>org.springframework.boot</groupId>
