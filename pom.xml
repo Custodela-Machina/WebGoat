@@ -6,7 +6,6 @@
     <artifactId>webgoat-parent</artifactId>
     <packaging>pom</packaging>
     <version>8.0.0.M3</version>
-
 	
 	
     <name>WebGoat Parent Pom</name>
