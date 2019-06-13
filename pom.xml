@@ -47,6 +47,7 @@
             <timezone>Europe/Amsterdam</timezone>
         </developer>
         <developer>
+		
             <id>misfir3</id>
             <name>Jason White</name>
             <email>jason.white@owasp.org</email>
