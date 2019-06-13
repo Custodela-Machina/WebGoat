@@ -7,6 +7,7 @@
     <packaging>pom</packaging>
     <version>8.0-SNAPSHOT</version>
 
+	
     <name>WebGoat Parent Pom</name>
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
     <inceptionYear>2006</inceptionYear>
@@ -46,6 +47,7 @@
             <timezone>Europe/Amsterdam</timezone>
         </developer>
         <developer>
+		
 		
             <id>misfir3</id>
             <name>Jason White</name>
