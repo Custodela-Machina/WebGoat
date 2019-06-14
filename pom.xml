@@ -25,6 +25,7 @@
     </parent>
 
     <licenses>
+	    
         <license>
 		
             <name>GNU General Public License, version 2</name>
