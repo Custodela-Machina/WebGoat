@@ -24,6 +24,7 @@
         <version>1.5.5.RELEASE</version>
     </parent>
 
+	
     <licenses>
         <license>
             <name>GNU General Public License, version 2</name>
