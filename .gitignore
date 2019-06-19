@@ -17,6 +17,7 @@
 */target/*
 mongo-data/*
 .classpath
+
 .idea/
 .settings/
 src/main/main.iml
