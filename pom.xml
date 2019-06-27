@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <version>8.0.0.M3</version>
 	
-	
+
     <name>WebGoat Parent Pom</name>
     <description>Parent Pom for the WebGoat Project. A deliberately insecure Web Application</description>
     <inceptionYear>2006</inceptionYear>
